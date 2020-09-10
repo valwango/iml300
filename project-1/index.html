@@ -1,16 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Links Example</title>
+       <link rel="stylesheet" href="style.css"/>
+    <title>Welcome</title>
   </head>
     
   <body>
-  <video src="asset/establish.mov" type="video/mov" controls>Video not supported</video>
-    Welcome to the party. What's the move? 
-    <br>
-      <a href="page-2.html"> I want to see the show</a> 
-    <br>
-     <a href="page-3.html">ooooo carnival rides</a>.
-   
+ <video autoplay muted loop id="myVideo">
+  <source src="asset/establish.mp4" type="video/mp4">
+</video>
+    
+<div class="content">
+  <h1>Welcome to the party, COVID-19's first carnival themed music festival where you can actually ride the rides and be in the crowd. What's the move?</h1>
+    <a href="page-2.html">
+         <button id="myBtn" > I want to see the show</button>
+    </a>
+    <a href="page-3.html">
+      <button id="myBtn" href="page-3.html"> Ooo Carnival Rides!</button>
+    </a>
   </body>
 </html>
