@@ -10,3 +10,9 @@ font-family:sans-serif;
 h3{
 font-family:sans-serif;
 }
+
+#grad1 {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(red, yellow);
+}
