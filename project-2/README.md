@@ -14,11 +14,11 @@ rather than being confined to a small window, your face is projected as a waterm
 5. Select the extension folder
 
 ### Other Chrome extension concepts I am interested in creating
-* Background Dancers
+* Background Dancers:
 This chrome extension would play elevator music in your browser and equip backup dancers whenever your mouse is not moving. If the mouse touches a dancer, it will disappear. If the mouse does not move for a prolonged period of time, the background dancers will slowly take over the screen. 
-* Skim Read
+* Skim Read:
 This chrome extension would automatically detect large bodies of text on a page and then start speech and read those bodies of text in the order that they logically appear in.
-* Eye Tracking/Heat Map
+* Eye Tracking/Heat Map:
 This extension shows you real time on your screen which areas you are looking more at. This is executed by either having the classic heat map colors appear on screen as eye tracking goes on, or maybe replacing the colors with changing screen saturation in order to prevent it from being too distracting. (I would need Luke’s help for this because he is pro at using cameras in his code)
-* Game Break
+* Game Break:
 This extension offers you a short 30-sec game (like pacman, snake, etc.) to play when it detects that you have been actively working (typing a lot, scrolling a lot, etc,) and then stop suddenly as if you were taking a break. 
