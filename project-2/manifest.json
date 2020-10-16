@@ -1,10 +1,10 @@
 {
-  "name": "p5 Narcissist's Chrome Extension",
+  "name": "Narcissist's Chrome Extension",
   "manifest_version": 2,
   "version": "1.0",
   "description": "p5js visual overlay on browser",
   "icons": {
-    "128": "icon/p5-128.png"
+    "128": "icon/icon.png"
   },
   "content_scripts": [
     {
