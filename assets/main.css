@@ -1,4 +1,7 @@
-
+html {
+  //min-height: 100%;
+  //background-image: url();
+}
 h1{
 font-family:sans-serif;
 }
@@ -10,18 +13,59 @@ font-family:sans-serif;
 h3{
 font-family:sans-serif;
 }
-
-#grad1 {
-    background-color: red; 
-  background-image: linear-gradient(red, yellow);
+.title{
+  border-radius: 25px;
+  background: #7ec0ee;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+  width: 400px;
+  height: 200px;
+  margin: left; 
 }
-
-#grad2 {
-    background-color: red; 
-  background-image: linear-gradient(yellow, blue);
+.exercises{
+  border-radius: 25px;
+  background: red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+  width: 400px;
+  height: 400px;
+  margin-left: 400px;
+  margin-top: -100px; 
 }
-
-#grad3 {
-    background-color: red; 
-  background-image: linear-gradient(blue, red);
+.presentation{
+  border-radius: 25px;
+  background: green;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+  width: 400px;
+  height: 400px;
+  margin: auto; 
+}
+.projects{
+  border-radius: 25px;
+  background: purple;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+  width: 400px;
+  height: 400px;
+  margin: auto; 
+}
+.discussion{
+  border-radius: 25px;
+  background: yellow;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+  width: 400px;
+  height: 400px;
+  margin: auto; 
 }
